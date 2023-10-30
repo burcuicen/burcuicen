@@ -10,7 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=burcuicen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=burcuicen&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=burcuicen&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=burcuicen&theme=dracula)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=burcuicen&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
